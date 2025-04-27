@@ -48,7 +48,7 @@ function TaxTypeSelector({ onSelect }) {
       <div className="mt-6 p-4 bg-gray-50 rounded-lg border border-gray-200">
         <h4 className="text-sm font-semibold mb-2">Ketentuan Jenis Pajak Penghasilan Orang Pribadi</h4>
         <ul className="text-xs text-gray-600 space-y-1 list-disc list-inside">
-          <li>Wajib Pajak Orang Pribadi dengan omzet < Rp4,8 miliar dapat memilih metode perhitungan yang menguntungkan</li>
+          <li>Wajib Pajak Orang Pribadi dengan omzet &lt; Rp4,8 miliar dapat memilih metode perhitungan yang menguntungkan</li>
           <li>PP 23/2018 bersifat final dengan tarif 0,5% dari omzet bruto</li>
           <li>Metode NPPN menggunakan norma penghitungan yang berbeda untuk setiap jenis usaha</li>
           <li>Untuk penghasilan yang dikenai pajak bersifat final, gunakan PPh Final Pasal 4 ayat (2)</li>
