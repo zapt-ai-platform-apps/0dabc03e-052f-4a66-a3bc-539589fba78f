@@ -145,7 +145,7 @@ function PPh29Calculator() {
                 className="h-4 w-4 text-red-600 rounded border-gray-300 focus:ring-red-500"
               />
               <span className="ml-2 text-sm font-medium text-gray-700">
-                UMKM dengan Omzet < 4,8 Miliar
+                UMKM dengan Omzet &lt; 4,8 Miliar
               </span>
             </label>
           </div>

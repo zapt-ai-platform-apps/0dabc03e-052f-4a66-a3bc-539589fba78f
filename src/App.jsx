@@ -4,7 +4,6 @@ import Footer from '@/shared/components/Footer';
 import TaxCalculatorSelector from '@/modules/taxCalculator/ui/TaxCalculatorSelector';
 import CorporateTaxCalculator from '@/modules/taxCalculator/ui/CorporateTaxCalculator';
 import PersonalTaxCalculator from '@/modules/taxCalculator/ui/PersonalTaxCalculator';
-import ZaptBadge from '@/shared/components/ZaptBadge';
 
 export default function App() {
   const [calculatorType, setCalculatorType] = useState(null);
@@ -26,7 +25,6 @@ export default function App() {
       </main>
       
       <Footer />
-      <ZaptBadge />
     </div>
   );
 }
